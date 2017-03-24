@@ -7,4 +7,5 @@
     * [需求](hbcuc_bss/req/README.md)
     * [环境](hbcuc_bss/env/README.md)
 * [睿达果桑项目](rdgs/README.md)
+	* [会议纪要](rdgs/meetinglog.md)
 
